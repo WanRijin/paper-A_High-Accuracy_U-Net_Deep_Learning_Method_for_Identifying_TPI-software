@@ -10,9 +10,11 @@ source: personal experiment
 ##file structure
 
 Software: 
+
    sprY20F3T2Tka20770GRL.ipynb (Python3.10)
 
 data:
+
    train_obs50rain9024.nc (train ground truth)
    
    test_obs50rain9024.nc (test ground truth)
@@ -22,6 +24,7 @@ data:
    test_pre50H1H2RnTka509024.nc (test predictor)
 
 reference:
+
    Lu, X. Q., Zhao, B. K., Zhang, W., et al. (2008). Operational discussion.
    
    Ren, F. M., Gleason, B., & Easterling, D. R. (2001). A numerical method.
